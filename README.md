@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @notqaissiah
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Python
